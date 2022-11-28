@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GABRIEL_SANCHEZ_S5</string>
+    <string name="title_add">Nuevo</string>
+    <string name="title_list">Listado</string>
+    <string name="title_dashboard">Gráfico</string>
+    <string-array name="charge_type">
+        <item>Seleccione</item>
+        <item>Personal de aseo</item>
+        <item>Conserje</item>
+    </string-array>
+</resources>
